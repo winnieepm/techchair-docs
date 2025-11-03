@@ -1,0 +1,27 @@
+[
+        {
+            "url": "/core/assets/fonts/icomoon/demo/",
+            "title": "./core/assets/fonts/icomoon/demo.html",
+            "description": " "
+        },
+        {
+            "url": "/tags/",
+            "title": "./core/libdoc_tags.liquid",
+            "description": " "
+        },
+        {
+            "url": "/",
+            "title": "about this guide",
+            "description": "Some descriptions, history, and practices of the technical chair role in the annual ACH conference. "
+        },
+        {
+            "url": "/website/",
+            "title": "Conference Website",
+            "description": "Pieces of relevant information. "
+        },
+        {
+            "url": "/under-development/",
+            "title": "under deverlopment",
+            "description": "Pieces of relevant information. "
+        }
+]
