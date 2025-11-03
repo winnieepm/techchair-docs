@@ -1,10 +1,10 @@
 {
-    "siteTitle": "My Project Title",
-    "siteDescription": "This is the description of my project title",
-    "author": "John Doe",
+    "siteTitle": "ach tech chair",
+    "siteDescription": "Practices for the technical chair role in the annual conference.",
+    "author": "winnieepm",
     "faviconUrl": "/assets/myfavicon.png",
-    "blogTitle": "Blog",
-    "blogDescription": "Here is the description of the blog part",
+    "blogTitle": "Documentation Sections",
+    "blogDescription": "Divided by area, here is some information to successfully fulfill the role",
     "productionUrl": "https://eleventy-libdoc.netlify.app",
     "customLinks": [
         {
@@ -18,15 +18,8 @@
         {
             "url": "#",
             "text": "Bluesky"
-        },
-        {
-            "url": "#",
-            "text": "LinkedIn"
-        },
-        {
-            "url": "#",
-            "text": "CodePen"
         }
+       
     ],
     "editThisPageRootUrl": "https://github.com/ita-design-system/eleventy-libdoc/blob/main"
 }

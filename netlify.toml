@@ -1,0 +1,9 @@
+[build]
+  publish = "_site"
+  command = "npx eleventy"
+
+
+[[redirects]]
+  from = "/*"
+  to = "/en/:splat"
+  status = 302
