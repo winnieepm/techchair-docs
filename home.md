@@ -4,9 +4,9 @@ description: Some descriptions, history, and practices of the technical chair ro
 layout: libdoc_page.liquid
 permalink: index.html
 ---
+The Technical Chair and Technical Co-Chair are chiefly in charge of creating and running the technical infrastructure for the annual virtual conference of the Association for Computational Humanities (ACH). In recent years, this has included setting up/updating a dedicated website for the conference, supporting the maintenance/updating of ConfTool, and running the WorkAdventure location. 
 
 ## Core Responsibilities
-
 1. Conference Website
     - Create ✅
     - Populate content
