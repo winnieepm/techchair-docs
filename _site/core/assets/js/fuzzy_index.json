@@ -15,13 +15,18 @@
             "description": "Some descriptions, history, and practices of the technical chair role in the annual ACH conference. "
         },
         {
-            "url": "/website/",
+            "url": "/content/conference-site/",
             "title": "Conference Website",
+            "description": "Every conference has its own dedicated public website for accessibility, and a member-only instance of ConfTool to manage submissions, registration, and participant communications. "
+        },
+        {
+            "url": "/content/under-development/",
+            "title": "under deverlopment",
             "description": "Pieces of relevant information. "
         },
         {
-            "url": "/under-development/",
-            "title": "under deverlopment",
+            "url": "/content/conftool/",
+            "title": "ConfTool",
             "description": "Pieces of relevant information. "
         }
 ]

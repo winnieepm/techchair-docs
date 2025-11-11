@@ -12,16 +12,21 @@
         {
             "url": "/",
             "title": "about this guide",
-            "content": "Some descriptions, history, and practices of the technical chair role in the annual ACH conference.  The Technical Chair and Technical Co-Chair are chiefly in charge of creating and running the technical infrastructure for the annual virtual conference of the Association for Computational Humanities (ACH). In recent years, this has included setting up/updating a dedicated website for the conference, supporting the maintenance/updating of ConfTool, and running the WorkAdventure location.Core ResponsibilitiesConference WebsiteCreate ✅Populate contentConfToolPurchaseInitial setup; confirm settings imported correctlyCFPTest all featuresProposal submissionsReview assignments and workflowEmail/communicationsProgramCertificates for reviewers, volunteers, attendeesCollaborate with Program Lead to assign sessions to accepted papersZoomCoordinate with treasurer to purchase appropriate licensesReview, update, finalize configurationSet up Zoom rooms for each sessionWork AdventureCreate map(s)Test functionalityUpdate Work Adventure guides"
+            "content": "Some descriptions, history, and practices of the technical chair role in the annual ACH conference.  The Technical Chair and Technical Co-Chair are chiefly in charge of creating and running the technical infrastructure for the annual virtual conference of the Association for Computational Humanities (ACH). In recent years, this has included setting up/updating a dedicated website for the conference, supporting the maintenance/updating of ConfTool, and running the WorkAdventure location.Core ResponsibilitiesConference WebsiteCreate ✅Populate contentConfToolPurchase (in the works)Initial setup; confirm settings imported correctlyCFPTest all featuresProposal submissionsReview assignments and workflowEmail/communicationsProgramCertificates for reviewers, volunteers, attendeesCollaborate with Program Lead to assign sessions to accepted papersZoomCoordinate with treasurer to purchase appropriate licensesReview, update, finalize configurationSet up Zoom rooms for each sessionWork AdventureCreate map(s)Test functionalityUpdate Work Adventure guides"
         },
         {
-            "url": "/website/",
+            "url": "/content/conference-site/",
             "title": "Conference Website",
-            "content": "Pieces of relevant information.  initial setup"
+            "content": "Every conference has its own dedicated public website for accessibility, and a member-only instance of ConfTool to manage submissions, registration, and participant communications.  This page only refers to the setup for the public website, and does not cover the ConfTool configuration. To setup the latter, check the ConfTool section in this guide to learn more.Requirements: 11ty, GitHub, Netlify, VS Code (or another code editor)initial setupBecome a member of the ACH&#39;s organization GitHub account: achorg (if you haven&#39;t). Request an invitation from an admin or member of the organization account. They can add new authorized users by sending an invitation to other Github user&#39;s account handle or ID.Fork the repository from the most recent conference and rename the new repo&#39;s name to &amp;quot;achYYYY-website&amp;quot; where &amp;quot;YYYY&amp;quot; is substituted by the upcoming conference year. Previous public websites from past conferences are stored in the ACH&#39;s organizational GitHub.Clone the new website repo to your computer so you can work on it locally. You can either use the Git command-line tool or use the GitHub Desktop GUI.Deploy the new website on Netlify. Log into the ACH&#39;s Netlify account using the credentials below, create a new, site and connect it to the Github repository. Netlify will automatically detect the netlify.toml file inside the GitHub repository to build and publish your website. username: password: Copy the live link address for the website and add it to the About section of its GitHub repository."
         },
         {
-            "url": "/under-development/",
+            "url": "/content/under-development/",
             "title": "under deverlopment",
-            "content": "Pieces of relevant information.  Important information that doesn&#39;t fit other pages or isn&#39;t detailed enough to be its own page."
+            "content": "Pieces of relevant information.  Important information that doesn&#39;t fit other pages or isn&#39;t detailed enough to be its own page.I need this to be the last page in the left-side navbar."
+        },
+        {
+            "url": "/content/conftool/",
+            "title": "ConfTool",
+            "content": "Pieces of relevant information.  Every conference has its own dedicated public website and a member-only instance of ConfTool to manage submissions, registration, and participant communications.ConfTool is a Germany-based toolin addition to an instance of ConfToolOn achorg , ork the latest conference website"
         }
 ]

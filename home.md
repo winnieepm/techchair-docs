@@ -11,7 +11,7 @@ The Technical Chair and Technical Co-Chair are chiefly in charge of creating and
     - Create ✅
     - Populate content
 2. ConfTool
-    - Purchase
+    - Purchase (in the works)
     - Initial setup; confirm settings imported correctly 
     - CFP
     - Test all features
